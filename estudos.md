@@ -1,4 +1,4 @@
-![Fluxograma - PNGC v6-1](https://github.com/user-attachments/assets/eeb70042-b1ff-4ca6-aedc-dc54b181d27f)---
+---
 layout: page
 show_social: true          # show site description and social links in the footer
 show_excerpts: false       # show article excerpts on the home page
