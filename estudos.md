@@ -19,5 +19,5 @@ minimal: false             # use a dark header
 
 **Programa Nacional de Gestão de Custos em Saúde**
 
-<img src="fluxograma-pngc-v6.png" width="80%">
+<img src="/fluxograma-pngc-v6.png" width="80%">
 
