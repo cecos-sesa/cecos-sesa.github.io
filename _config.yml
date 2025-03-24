@@ -19,7 +19,7 @@ minimal: true
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.md", icon: home}  
-  - {title: "Notas Técnicas", file: "estudos.md"}
+  - {title: "Materiais e Recursos", file: "estudos.md"}
   # - {title: "Piso da Enfermagem", file: "piso_enfermagem.md"}
   # - {title: "Miscellaneous", file: "miscellaneous.md"}
 
