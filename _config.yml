@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {title: "Miscellaneous", file: "miscellaneous.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Landmark, icon: e4d8, url: "https://www.saude.ce.gov.br"}
+  - {title: Landmark, icon: landmark, url: "https://www.saude.ce.gov.br"}
   # - {title: Twitter, icon: twitter, url: "https://twitter.com/mrvmagalhaes"}
   # - {title: Instagram, icon: instagram, url: "https://www.instagram.com/marcosrenan/"}
   # - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/marcos-renan-vasconcelos-magalhaes/"}
