@@ -9,4 +9,4 @@ minimal: false             # use a dark header
 
 **Notas Técnicas**
 - **[Indicador de Otimização dos Gastos Administrativos](https://drive.google.com/file/d/10A6spyFnkZToRCoIp4cFu-fz7o7AXjhE/view?usp=sharing)**, atualizado em 23/01/2025
-
+- **[Judicialização da Saúde no Ceará: Impactos Orçamentários e Desafios na Aquisição de Medicamentos de Alto Custo](https://drive.google.com/file/d/10ENEk1DaYseiAlPXaugQUW4m910lmGE_/view?usp=sharing)**, atualizado em 19/12/2024
