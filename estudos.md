@@ -1,4 +1,4 @@
----
+![Fluxograma - PNGC v6-1](https://github.com/user-attachments/assets/eeb70042-b1ff-4ca6-aedc-dc54b181d27f)---
 layout: page
 show_social: true          # show site description and social links in the footer
 show_excerpts: false       # show article excerpts on the home page
@@ -18,3 +18,6 @@ minimal: false             # use a dark header
 - **[Acompanhamento mensal dos repasses do Ministério da Saúde referentes ao Piso da Enfermagem, no âmbito dos equipamentos de saúde da rede SESA](https://docs.google.com/spreadsheets/d/1YTwlfRZ3aJKtyvk0xOx4lp1xXxfXIwoF/edit?usp=sharing&ouid=114592763210981187925&rtpof=true&sd=true)**, atualizado em 05/03/2025
 
 **Programa Nacional de Gestão de Custos em Saúde**
+
+<img src="fluxograma-pngc-v6.png" width="100%" alt="Fluxograma do PNGC na rede SESA">
+
