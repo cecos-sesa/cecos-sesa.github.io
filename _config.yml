@@ -1,28 +1,38 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Célula de Economia da Saúde"
+author: "Célula de Economia da Saúde"
+description: "economiadasaudececos@gmail.com"
+e-mail: "economiadasaudececos@gmail.com"
 permalink: /:title/
-lang: "en"
+lang: "pt"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+show_social: true         # show site description and social links in the footer
+show_excerpts: false      # show article excerpts on the home page
+show_frame: true          # adds a gray frame to the site
+show_sidebar: false       # show a sidebar instead of the usual header 
+minimal: true
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {title: "Home", file: "index.md", icon: home}  
+  # - {title: "CV", url: "https://drive.google.com/file/d/1-6vKL9juJKW8jx3DUG00FO08CNooqMBF/view?usp=sharing"}
+#  - {title: "Lattes", url: "http://lattes.cnpq.br/9146944047583338"}
+  # - {title: "Research", file: "research.md"}
+  # - {title: "Miscellaneous", file: "miscellaneous.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  # - {title: Github, icon: github, url: "https://github.com/marcosrenan "}
+  # - {title: Twitter, icon: twitter, url: "https://twitter.com/mrvmagalhaes"}
+  # - {title: Instagram, icon: instagram, url: "https://www.instagram.com/marcosrenan/"}
+  # - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/marcos-renan-vasconcelos-magalhaes/"}
+  # - {title: Research Gate, icon: researchgate, url: "https://www.researchgate.net/profile/Marcos-Vasconcelos-Magalhaes"}
+  # - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com.br/citations?user=4NobnxIAAAAJ&hl=pt-BR"}
+  # - {title: Spotify Playlist, icon: spotify, url: "https://open.spotify.com/playlist/0RXJLg5P73W8FQ78ivTCK6?si=e3123b8b89a84bb3"}
+  # - {title: Youtube, icon: youtube, url: "https://www.youtube.com/channel/UCFalNfBWWI4GaayT1QHOjOA"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
