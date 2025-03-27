@@ -27,7 +27,7 @@ minimal: false             # use a dark header
   </li>
 </ul>
 <a href="https://drive.google.com/file/d/1AXE3vX3ZPRNEWN2-uucz1TU1pJEgkYSy/view?usp=sharing" target="_blank">
-  <img src="/Fluxograma-PNGC-v3.png" alt="Fluxograma do PNGC na rede SESA" style="width: 1300px; max-width: 100%; margin-top: 5px; display: block;">
+  <img src="/Fluxograma-PNGC-v4.png" alt="Fluxograma do PNGC na rede SESA" style="width: 1300px; max-width: 100%; margin-top: 5px; display: block;">
 </a>
 
 
