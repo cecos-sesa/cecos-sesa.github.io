@@ -18,7 +18,13 @@ minimal: false             # use a dark header
 - **[Acompanhamento mensal dos repasses do Ministério da Saúde referentes ao Piso da Enfermagem, no âmbito dos equipamentos de saúde da rede SESA](https://docs.google.com/spreadsheets/d/1YTwlfRZ3aJKtyvk0xOx4lp1xXxfXIwoF/edit?usp=sharing&ouid=114592763210981187925&rtpof=true&sd=true)**, atualizado em 05/03/2025
 
 **Programa Nacional de Gestão de Custos em Saúde**
-- **[Fluxograma do PNGC na rede SESA](https://drive.google.com/file/d/11PkxblUYtaKMTnmdlOhuouIbvuS7WkA2/view?usp=sharing)** 
-<img src="/fluxograma-pngc-v6.png" alt="Fluxograma do PNGC na rede SESA" style="width: 2000px;">
+
+<p>
+  <strong><a href="https://drive.google.com/file/d/11PkxblUYtaKMTnmdlOhuouIbvuS7WkA2/view?usp=sharing" target="_blank">Fluxograma do PNGC na rede SESA</a></strong>
+</p>
+<a href="https://drive.google.com/file/d/11PkxblUYtaKMTnmdlOhuouIbvuS7WkA2/view?usp=sharing" target="_blank">
+  <img src="/fluxograma-pngc-v6.png" alt="Fluxograma do PNGC na rede SESA" style="width: 2000px;">
+</a>
+
 
 
