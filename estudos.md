@@ -21,11 +21,13 @@ minimal: false             # use a dark header
 
 <ul>
   <li>
+    <div style="margin-bottom: 1em;">
+      <a href="https://drive.google.com/file/d/1Mcu-uGh_0_XXX3d-JoCcUkhqQNUkjmlg/view?usp=sharing" target="_blank">
+        <strong>Fluxograma do PNGC na rede SESA</strong>
+      </a>
+    </div>
     <a href="https://drive.google.com/file/d/1Mcu-uGh_0_XXX3d-JoCcUkhqQNUkjmlg/view?usp=sharing" target="_blank">
-      <strong>Fluxograma do PNGC na rede SESA</strong>
-    </a><br>
-    <a href="https://drive.google.com/file/d/1Mcu-uGh_0_XXX3d-JoCcUkhqQNUkjmlg/view?usp=sharing" target="_blank">
-      <img src="/Fluxograma-PNGC-v2.png" alt=" Fluxograma do PNGC na rede SESA\n" style="width: 100%;">
+      <img src="/Fluxograma-PNGC-v2.png" alt="Fluxograma do PNGC na rede SESA" style="width: 100%;">
     </a>
   </li>
 </ul>
