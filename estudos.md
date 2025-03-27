@@ -19,6 +19,6 @@ minimal: false             # use a dark header
 
 **Programa Nacional de Gestão de Custos em Saúde**
 - **[Fluxograma do PNGC na rede SESA](https://drive.google.com/file/d/11PkxblUYtaKMTnmdlOhuouIbvuS7WkA2/view?usp=sharing)** 
-<img src="/fluxograma-pngc-v6.png" alt="Fluxograma do PNGC na rede SESA" style="width: 1400px;">
+<img src="/fluxograma-pngc-v6.png" alt="Fluxograma do PNGC na rede SESA" style="width: 1600px;">
 
 
