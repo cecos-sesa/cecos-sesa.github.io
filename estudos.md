@@ -25,7 +25,7 @@ minimal: false             # use a dark header
       <strong>Fluxograma do PNGC na rede SESA</strong> 
     </a><br>
     <a href="https://drive.google.com/file/d/1AXE3vX3ZPRNEWN2-uucz1TU1pJEgkYSy/view?usp=sharing" target="_blank">
-      <img src="/Fluxograma-PNGC-v3.png" alt="Fluxograma do PNGC na rede SESA" style="width: 100%; margin-top: 20px;">
+      <img src="/Fluxograma-PNGC-v3.png" alt="Fluxograma do PNGC na rede SESA" style="width: 100%; margin-top: 5px;">
     </a>
   </li>
 </ul>
