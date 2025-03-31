@@ -32,7 +32,7 @@ body > footer {
 aside {
   background: #5db12f !important;
   color: white;
-  opacity: 0.80;
+  opacity: 0.50;
 }
 
 /* Links de navegação */
