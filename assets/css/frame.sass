@@ -4,13 +4,13 @@
 @import index, font, basic, layout, classes
 
 html
-  // background: lighten($dark, 70%)
-  background: #f0fff0  // verde bem claro (opcional)
+  background: lighten($dark, 70%)
+  // background: #f0fff0  // verde bem claro (opcional)
   padding: 0 calc(38% - 22em)
 
 body
-  // box-shadow: 0 0 .3em lighten($dark, 65%)
-  box-shadow: 0 0 .3em #5db12f
+  box-shadow: 0 0 .3em lighten($dark, 65%)
+  // box-shadow: 0 0 .3em #5db12f
 
 body > header, body > footer
   background: lighten($dark, 5%)
@@ -22,12 +22,12 @@ body > header, body > footer
 
 @media (prefers-color-scheme: dark)
   html
-    // background: darken($dark, 4%)
-    background: #1a2e12  // verde escuro opcional para fundo no modo escuro
+    background: darken($dark, 4%)
+    // background: #1a2e12  // verde escuro opcional para fundo no modo escuro
 
   body > header, body > footer
     background: $dark
 
-  // box-shadow anterior: box-shadow: 0 0 0 1px lighten($dark, 8%)
   body, body > header, body > footer
-    box-shadow: 0 0 0 1px #5db12f
+    box-shadow: 0 0 0 1px lighten($dark, 8%)
+    // box-shadow: 0 0 0 1px #5db12f
