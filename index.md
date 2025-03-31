@@ -37,7 +37,7 @@ aside {
 
 /* Links de navegação */
 nav a:hover, nav a.selected {
-  background: #5db12f !important; /* Verde médio */
+  background: #26a737 !important; /* Verde institucional */
   text-decoration: none;
 }
 </style>
