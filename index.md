@@ -4,41 +4,41 @@ title: "Bem vindos!"
 ---
 
 <style>
-/* Define o fundo das margens laterais (fora do conteúdo principal) com um verde bem claro */
+/* Fundo das margens externas */
 html {
-  background: #e9f8e3 !important;
+  background: #e9f8e3 !important; /* Verde bem claro */
 }
 
-/* Aplica uma sombra verde ao redor do conteúdo, criando o "frame" */
+/* Moldura geral do conteúdo */
 body {
   box-shadow: 0 0 .3em #5db12f !important;
 }
 
-/* Estiliza o cabeçalho (topo) com verde forte, texto branco e uma borda inferior em verde escuro */
+/* Topo do site */
 body > header {
-  background: #5db12f !important;
+  background: #26a737 !important; /* Verde institucional vibrante */
   color: white;
-  border-bottom: 1px solid #4a9127;
+  border-bottom: 1px solid #198d25;
 }
 
-/* Estiliza o rodapé (parte inferior) com o mesmo verde, borda superior e leve sombra interna */
+/* Rodapé do site */
 body > footer {
-  background: #5db12f !important;
+  background: #26a737 !important;
   color: white;
-  border-top: 1px solid #4a9127;
-  box-shadow: 0 0 .6em rgba(93, 177, 47, 0.2) inset;
+  border-top: 1px solid #198d25;
+  box-shadow: 0 0 .6em rgba(38, 187, 55, 0.2) inset;
   opacity: 0.95;
 }
 
-/* Define a barra lateral (caso ativada no futuro) com o mesmo tom de verde e texto branco */
+/* Barra lateral (se ativada) */
 aside {
   background: #5db12f !important;
   color: white;
 }
 
-/* Estiliza os links da navegação ao passar o mouse ou quando estiverem selecionados */
+/* Links de navegação */
 nav a:hover, nav a.selected {
-  background: #76c848 !important; /* tom de verde mais claro para destaque */
+  background: #46ac33 !important; /* Verde médio */
   text-decoration: none;
 }
 </style>
