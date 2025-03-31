@@ -15,16 +15,16 @@ body {
 
 /* Topo do site */
 body > header {
-  background: #5db12f !important; /* Verde institucional */
+  background: #26a737 !important; /* Verde institucional */
   color: white;
-  border-bottom: 1px solid #198d25;
+  border-bottom: 1px solid #26a737;
 }
 
 /* Rodapé do site */
 body > footer {
-  background: #5db12f !important;
+  background: #45b16e !important;
   color: white;
-  border-top: 1px solid #198d25;
+  border-top: 1px solid #45b16e;
   box-shadow: 0 0 .6em rgba(38, 187, 55, 0.2) inset;
 }
 
