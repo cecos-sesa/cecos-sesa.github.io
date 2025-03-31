@@ -12,11 +12,33 @@
 
 <!-- Aplica Kanit globalmente -->
 <style>
+  /* Aplica a fonte Kanit ao corpo do site com peso regular (400) */
   body {
     font-family: 'Kanit', sans-serif;
+    font-weight: 400;
+  }
+
+  /* Define títulos (h1, h2, h3) com peso mais encorpado (600) para dar destaque */
+  h1, h2, h3 {
+    font-weight: 600;
+  }
+
+  /* Estiliza os links do menu de navegação com um peso mais leve (300) para leveza visual */
+  nav a {
+    font-weight: 300;
+  }
+
+  /* Deixa o texto do rodapé com peso leve (300), mantendo aparência discreta */
+  footer {
+    font-weight: 300;
+  }
+
+  /* Links em geral com peso regular (400) para boa leitura e uniformidade */
+  a {
+    font-weight: 400;
   }
 </style>
-
+  
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 {% if site.show_frame %}
 <link rel="stylesheet" href="{{ "/assets/css/frame.css" | relative_url }}">
