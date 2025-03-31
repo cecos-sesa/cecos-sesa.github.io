@@ -5,7 +5,7 @@ layout: page
 <style>
 /* Fundo das margens externas */
 html {
-  background: #5db12f !important; /* Verde institucional */
+  background: white !important; /* Verde institucional */
 }
 
 /* Moldura geral do conteúdo */
