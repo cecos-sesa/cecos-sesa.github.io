@@ -45,7 +45,7 @@ nav a:hover, nav a.selected {
 
 <p>
   <img src="logo_sesa_color-3.svg" alt="Logo da SESA"
-       style="display: block; margin: 0 auto; max-width: 40px;">
+       style="display: block; margin: 0 auto; max-width: 10px;">
 </p>
 
 Website da Célula de Economia da Saúde (CECOS), vinculada à Coordenadoria de Gestão Orçamentária e Economia da Saúde (COGEO) e à Secretaria Executiva de Planejamento e Gestão Interna (SEPGI) da Secretaria da Saúde do Estado do Ceará (SESA).
