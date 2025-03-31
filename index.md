@@ -11,7 +11,7 @@ html {
 /* Moldura geral do conteúdo */
 body {
   background: white !important; /* Margens internas em branco */
-  box-shadow: 0 0 .3em #5db12f !important;
+  box-shadow: 0 0 .3em white !important;
 }
 
 /* Topo do site */
