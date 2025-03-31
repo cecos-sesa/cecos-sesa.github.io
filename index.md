@@ -10,6 +10,9 @@ html {
 
 /* Moldura geral do conteúdo */
 body {
+  background: white !important; /* Margens internas em branco */
+  margin: 2em auto;
+  max-width: 960px;
   box-shadow: 0 0 .3em #5db12f !important;
 }
 
@@ -30,7 +33,7 @@ body > footer {
 
 /* Barra lateral (se ativada) */
 aside {
-  background: white !important;
+  background: #5db12f !important;
   color: white;
 }
 
