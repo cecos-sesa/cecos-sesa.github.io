@@ -27,7 +27,7 @@ body > footer {
   color: white;
   border-top: 1px solid #198d25;
   box-shadow: 0 0 .6em rgba(38, 187, 55, 0.2) inset;
-  opacity: 0.95;
+  /* opacity: 0.95; */
 }
 
 /* Barra lateral (se ativada) */
