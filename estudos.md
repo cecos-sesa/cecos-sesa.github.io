@@ -7,6 +7,46 @@ show_sidebar: true         # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 ---
 
+<style>
+/* Fundo das margens externas */
+html {
+  background: #5db12f !important; /* Verde institucional */
+}
+
+/* Moldura geral do conteúdo */
+body {
+  box-shadow: 0 0 .3em #5db12f !important;
+}
+
+/* Topo do site */
+body > header {
+  background: #5db12f !important; /* Verde institucional */
+  color: white;
+  border-bottom: 1px solid #198d25;
+}
+
+/* Rodapé do site */
+body > footer {
+  background: #5db12f !important;
+  color: white;
+  border-top: 1px solid #198d25;
+  box-shadow: 0 0 .6em rgba(38, 187, 55, 0.2) inset;
+  /* opacity: 0.95; */
+}
+
+/* Barra lateral (se ativada) */
+aside {
+  background: #5db12f !important;
+  color: white;
+}
+
+/* Links de navegação */
+nav a:hover, nav a.selected {
+  background: #5db12f !important; /* Verde médio */
+  text-decoration: none;
+}
+</style>
+
 **Notas Técnicas**
 - **[Indicador de Otimização dos Gastos Administrativos](https://drive.google.com/file/d/10A6spyFnkZToRCoIp4cFu-fz7o7AXjhE/view?usp=sharing)**, atualizado em 23/01/2025
 - **[Judicialização da Saúde no Ceará: Impactos Orçamentários e Desafios na Aquisição de Medicamentos de Alto Custo](https://drive.google.com/file/d/10ENEk1DaYseiAlPXaugQUW4m910lmGE_/view?usp=sharing)**, atualizado em 19/12/2024
