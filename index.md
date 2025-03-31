@@ -6,7 +6,7 @@ title: "Bem vindos!"
 <style>
 /* Fundo das margens externas */
 html {
-  background: #5db12f !important; /* Verde bem claro */
+  background: #5db12f !important; /* Verde institucional */
 }
 
 /* Moldura geral do conteúdo */
@@ -16,14 +16,14 @@ body {
 
 /* Topo do site */
 body > header {
-  background: #5db12f !important; /* Verde institucional vibrante */
+  background: #5db12f !important; /* Verde institucional */
   color: white;
   border-bottom: 1px solid #198d25;
 }
 
 /* Rodapé do site */
 body > footer {
-  background: #26a737 !important;
+  background: #5db12f !important;
   color: white;
   border-top: 1px solid #198d25;
   box-shadow: 0 0 .6em rgba(38, 187, 55, 0.2) inset;
@@ -38,7 +38,7 @@ aside {
 
 /* Links de navegação */
 nav a:hover, nav a.selected {
-  background: #46ac33 !important; /* Verde médio */
+  background: #5db12f !important; /* Verde médio */
   text-decoration: none;
 }
 </style>
