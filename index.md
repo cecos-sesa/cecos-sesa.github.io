@@ -1,10 +1,4 @@
 ---
-layout: page
-title: "Bem vindos!"
----
-
-Website da Célula de Economia da Saúde (CECOS), vinculada à Coordenadoria de Gestão Orçamentária e Economia da Saúde (COGEO) e à Secretaria Executiva de Planejamento e Gestão Interna (SEPGI) da Secretaria da Saúde do Estado do Ceará (SESA).
-
 <style>
 body {
   box-shadow: 0 0 .3em #5db12f !important;
@@ -25,6 +19,11 @@ aside {
   background: #5db12f !important;
   color: white;
 }
+layout: page
+title: "Bem vindos!"
+---
+
+Website da Célula de Economia da Saúde (CECOS), vinculada à Coordenadoria de Gestão Orçamentária e Economia da Saúde (COGEO) e à Secretaria Executiva de Planejamento e Gestão Interna (SEPGI) da Secretaria da Saúde do Estado do Ceará (SESA).
 
 nav a:hover, nav a.selected {
   background: #76c848 !important;
