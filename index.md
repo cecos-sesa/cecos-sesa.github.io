@@ -6,7 +6,7 @@ title: "Bem vindos!"
 <style>
 /* Fundo das margens externas */
 html {
-  background: #e9f8e3 !important; /* Verde bem claro */
+  background: #5db12f !important; /* Verde bem claro */
 }
 
 /* Moldura geral do conteúdo */
@@ -16,7 +16,7 @@ body {
 
 /* Topo do site */
 body > header {
-  background: #26a737 !important; /* Verde institucional vibrante */
+  background: #5db12f !important; /* Verde institucional vibrante */
   color: white;
   border-bottom: 1px solid #198d25;
 }
