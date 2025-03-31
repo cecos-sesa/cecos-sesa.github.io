@@ -30,7 +30,7 @@ body > footer {
 
 /* Barra lateral (se ativada) */
 aside {
-  background: #5db12f !important;
+  background: white !important;
   color: white;
 }
 
