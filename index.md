@@ -15,9 +15,11 @@ body > header {
 }
 
 body > footer {
-  box-shadow: 0 0 .6em rgba(93, 177, 47, 0.2) inset;
-  border-top: 1px solid #4a9127;
+  background: #5db12f !important;
   color: white;
+  border-top: 1px solid #4a9127;
+  box-shadow: 0 0 .6em rgba(93, 177, 47, 0.2) inset;
+  opacity: 0.95;
 }
 
 aside {
