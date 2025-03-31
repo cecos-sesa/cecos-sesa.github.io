@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Bem vindos!"
 ---
 
 <style>
@@ -27,7 +26,6 @@ body > footer {
   color: white;
   border-top: 1px solid #198d25;
   box-shadow: 0 0 .6em rgba(38, 187, 55, 0.2) inset;
-  /* opacity: 0.95; */
 }
 
 /* Barra lateral (se ativada) */
@@ -43,9 +41,13 @@ nav a:hover, nav a.selected {
 }
 </style>
 
+<!-- Logo centralizada -->
 <p>
   <img src="logo_sesa_color-3.svg" alt="Logo da SESA"
-       style="display: block; margin: 0 auto; max-width: 200px;">
+       style="display: block; margin: 0 auto; max-width: 350px;">
 </p>
+
+<!-- Título Bem-vindos alinhado à esquerda -->
+<h1>Bem-vindos!</h1>
 
 Website da Célula de Economia da Saúde (CECOS), vinculada à Coordenadoria de Gestão Orçamentária e Economia da Saúde (COGEO) e à Secretaria Executiva de Planejamento e Gestão Interna (SEPGI) da Secretaria da Saúde do Estado do Ceará (SESA).
